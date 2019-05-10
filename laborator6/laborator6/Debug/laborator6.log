@@ -1,0 +1,39 @@
+﻿  WatchList.cpp
+c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(107): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(106): note: while compiling class template member function 'void DynamicVector<int>::resize(double)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(93): note: see reference to function template instantiation 'void DynamicVector<int>::resize(double)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(38): note: while compiling class template member function 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(130): note: see reference to function template instantiation 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(124): note: see reference to class template instantiation 'DynamicVector<int>' being compiled
+  UI.cpp
+c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(107): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(106): note: while compiling class template member function 'void DynamicVector<int>::resize(double)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(93): note: see reference to function template instantiation 'void DynamicVector<int>::resize(double)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(38): note: while compiling class template member function 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(130): note: see reference to function template instantiation 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(124): note: see reference to class template instantiation 'DynamicVector<int>' being compiled
+  MovieRepository.cpp
+c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(107): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(106): note: while compiling class template member function 'void DynamicVector<int>::resize(double)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(93): note: see reference to function template instantiation 'void DynamicVector<int>::resize(double)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(38): note: while compiling class template member function 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(130): note: see reference to function template instantiation 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(124): note: see reference to class template instantiation 'DynamicVector<int>' being compiled
+  Movie.cpp
+  Main.cpp
+c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(107): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(106): note: while compiling class template member function 'void DynamicVector<int>::resize(double)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(93): note: see reference to function template instantiation 'void DynamicVector<int>::resize(double)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(38): note: while compiling class template member function 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(130): note: see reference to function template instantiation 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(124): note: see reference to class template instantiation 'DynamicVector<int>' being compiled
+  Controller.cpp
+c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(107): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(106): note: while compiling class template member function 'void DynamicVector<int>::resize(double)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(93): note: see reference to function template instantiation 'void DynamicVector<int>::resize(double)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(38): note: while compiling class template member function 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)'
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(130): note: see reference to function template instantiation 'DynamicVector<int>::DynamicVector(const DynamicVector<int> &)' being compiled
+  c:\users\hdae0066\documents\visual studio 2017\projects\laborator6\laborator6\dynamicvector.h(124): note: see reference to class template instantiation 'DynamicVector<int>' being compiled
+  Generating Code...
+  laborator6.vcxproj -> c:\users\hdae0066\documents\visual studio 2017\Projects\laborator6\Debug\laborator6.exe
+  laborator6.vcxproj -> c:\users\hdae0066\documents\visual studio 2017\Projects\laborator6\Debug\laborator6.pdb (Partial PDB)
